@@ -2,6 +2,10 @@
 
 A portfolio project that demonstrates an end-to-end sales analytics workflow using **Microsoft Excel, SQL, and Tableau**.
 
+## Dashboard Preview
+
+![Sales Analytics Dashboard](dashboard_preview.png)
+
 ## Project Goal
 Analyze retail sales data to identify revenue trends, regional performance, product demand, and profitability. The final deliverable is an interactive Tableau dashboard supported by cleaned Excel data and SQL analysis.
 
