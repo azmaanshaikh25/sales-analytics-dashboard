@@ -30,6 +30,14 @@ The included dataset contains 1,000 fictional retail transactions from 2025 with
 4. Which products have the strongest customer demand?
 5. What is the overall profit margin?
 
+## Key Insights
+
+- Total revenue reached **$489,385**, generating **$205,789 in profit** with a **42.1% profit margin**.
+- **December** generated the highest monthly revenue at approximately **$60,000**.
+- The **Northeast** was the highest-revenue region at **$125,667**, although regional performance was relatively close.
+- **Furniture** was the strongest category, generating **$359,773** in revenue.
+- **Standing Desks** generated the most product revenue, while **Bookshelves** had the highest units sold among the products shown.
+
 ## Repository Structure
 ```text
 sales-analytics-dashboard/
